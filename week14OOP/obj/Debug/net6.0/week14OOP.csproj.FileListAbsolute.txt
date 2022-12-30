@@ -1,0 +1,15 @@
+C:\Users\SpireBlack\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.csproj.AssemblyReference.cache
+C:\Users\SpireBlack\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpireBlack\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.AssemblyInfoInputs.cache
+C:\Users\SpireBlack\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.AssemblyInfo.cs
+C:\Users\SpireBlack\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.csproj.CoreCompileInputs.cache
+C:\Users\SpireBlack\source\repos\week14OOP\week14OOP\bin\Debug\net6.0\week14OOP.exe
+C:\Users\SpireBlack\source\repos\week14OOP\week14OOP\bin\Debug\net6.0\week14OOP.deps.json
+C:\Users\SpireBlack\source\repos\week14OOP\week14OOP\bin\Debug\net6.0\week14OOP.runtimeconfig.json
+C:\Users\SpireBlack\source\repos\week14OOP\week14OOP\bin\Debug\net6.0\week14OOP.dll
+C:\Users\SpireBlack\source\repos\week14OOP\week14OOP\bin\Debug\net6.0\week14OOP.pdb
+C:\Users\SpireBlack\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.dll
+C:\Users\SpireBlack\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\refint\week14OOP.dll
+C:\Users\SpireBlack\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.pdb
+C:\Users\SpireBlack\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.genruntimeconfig.cache
+C:\Users\SpireBlack\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\ref\week14OOP.dll
